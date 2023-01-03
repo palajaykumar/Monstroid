@@ -1,0 +1,36 @@
+.wrapper{}
+.header{background: #fff; padding: 32px 0;float: left;   width: 100%;box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;}
+.container{max-width: 1200px; margin: 0 auto; padding: 0 15px; width: 100%;}
+.menu{list-style-type: none; margin:  10px 0 0 190px; padding: 0; float: left;}
+.menu li{    float: left;list-style-type: none;    padding: 0 13px;}
+.menu li a{ color: #000; text-decoration: none; background-color: transparent; font-size: 12px; line-height: 22px; font-weight: 400; text-transform: uppercase; letter-spacing: .05em;}
+.logo{float: left ;}
+.btn{background: #fff; border: 1px solid #e0e0e2; border-radius: 3px; color: #000; text-transform: uppercase; float: right;     padding: 17px 40px 15px; font-size: 12px; line-height: 24px;}
+.logo img{ width:173px; }
+.header .container{max-width: 1370px;    padding: 0;}
+.slider_sec { float: left; width: 100%; }
+.service_sec{ float: left; width: 100%; float: left; width: 100%; padding: 100px 0; }
+
+
+.menu li a:hover{ color: #2fd3ae; }
+.btn:hover {color: #fff; background-color: #2fd3ae; }
+
+.box { box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;   background: green; text-align: center; height: 1000px; width: 1000px; color: white; border-top: 5px solid red; border-right: 5px solid green; border-bottom: 5px solid #fff; border-left: 5px solid #000; font-weight: bold; font-size: 72px; line-height: 82px; vertical-align: middle; padding-top: 500px;}
+
+.bannerimage{ position: relative;  }
+.bannerimage img{ width: 100%; }
+.banner_data {text-align: center; padding: 0 220px; position: absolute;   top: 300px;} 
+.banner_data h2 {font-size: 60px; font-weight: 300; text-align: center; }
+.banner_data .btn{    float: none; margin: 40px 0 0 0; background: #2fd3ae; color: white; }
+.banner_data .btn:hover {color: #fff; background-color: #000; }
+
+.service_sec h2{ text-align: center; font-size: 40px; line-height: 50px;    font-weight: 300;    margin-bottom: 40px; }
+.service-box{ width: 33.3%; float: left; }
+.service-box h3{ font-size: 30px; font-weight: 300;  margin: 0 0 25px; }
+
+.service-box p{    color: #888;  font-size: 18px;    line-height: 28px;}
+ .service-box ul{ margin: 0; padding: 0; }
+ .service-box ul li { font-size: 18px;color: #2ed3ae; list-style: inside;}
+ .service-box .btn{float: left; margin-top: 30px;} 
+ .icon i{ color:#2ed3ae ; font-size: 30px; }
+ .icon { margin-bottom: 40px;  display: block;}
