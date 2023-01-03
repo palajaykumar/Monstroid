@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home - Monstroid</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="css/fontawesome-all.min.css" rel="stylesheet" type="text/css">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+
+	<div class="wrapper">
+		
+		<!-- Start Header-->
+		<div class="header">
+			<div class="container">
+				<a href="index.html" class="logo" title="Monstroid">	
+					<img src="images/logo.png" alt="Monstroid-logo-image" title="Monstroid">
+				</a>
+				<ul class="menu">
+					<li><a href="index.html">HOME</a></li>
+					<li><a href="features.html">FEATURES</a></li>
+					<li><a href="pages.html">PAGES</a>
+					<li><a href="events.html">EVENTS</a></li>
+					<li><a href="blog.html">BLOG</a></li>
+					<li><a href="gallery.html">GALLERY</a></li>
+					<li><a href="shop.html">SHOP</a></li>
+					<li><a href="element.html">ELEMENTS</a></li>
+				</ul>
+				<a href="#" class="btn">Buy template!</a>	
+			</div>
+	    </div>
+       <!-- End Header-->
+
+
+        <!-- Start Slider-->
+		<div class="slider_sec">
+			<div class="bannerimage">
+				<img src="images/slider1.jpg" alt="slider-image" >
+               	<div class="banner_data">
+	                <h2>Discover the Full Potential of Bootstrap with Monstroid²</h2>
+	                <a href="#" class="btn">Buy template!</a>
+				</div>
+
+			</div>
+			
+		</div>
+        <!--End Slider-->
+
+        <!--Start Service Section-->
+		<div class="service_sec">
+			<div class="container">
+				<h2>Our Services</h2>
+			
+<div class="service_area">
+			<div class="service-box">
+			   <span class="icon"><i class="fa fa-rocket"></i>	</span> 
+				<h3>Built For Speed</h3>
+				<p>Built for speed and performance. Get the best results at GTmetrix and Google PageSpeed.</p>
+				<ul>
+					<li>Amazing Performance</li>
+			        <li>Improved Stability</li>
+			        <li>Optimized Page Load Time</li>
+			    </ul>
+			    <a href="#" class="btn">READ MORE</a>
+			</div>
+
+			<div class="service-box">
+				<span class="icon"><i class="fa fa-align-left"></i> </span>
+				<h3>Flexible and Multipurpose</h3>
+				<p>Monstroid² allows to create a various websites for complex and scalable project.</p>
+				<ul>
+				<li>Lots of Predesigned Pages</li>
+				<li>Extended Bootstrap Framework</li>
+				<li>Clean Interface</li>
+			</ul>
+			<a href="#" class="btn">READ MORE</a>
+			</div>
+
+			<div class="service-box">
+				<span class="icon"><i class="fa fa-search"></i> </span>
+				<h3>SEO Friendly</h3>
+				<p>Valid code and performance optimized framework make SEO easy and hassle free.</p>
+				<ul>
+				<li>Indexable Content</li>
+				<li>Vast Keyword Application</li>
+				<li>On-Page Optimization</li>
+			</ul>
+			<a href="#" class="btn">READ MORE</a>
+			</div>
+</div>
+
+		</div>
+
+		<!--End Service Section-->	
+
+	   </div>
+<!--<div class="box">Ajay</div>-->
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+
+
+
+
+</body>
+</html>
